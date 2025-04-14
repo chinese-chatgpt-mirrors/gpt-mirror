@@ -1,6 +1,6 @@
 # ChatGPT 中文版｜国内 ChatGPT 镜像网站免费推荐（支持 GPT-4o/o1/o3）
 
-![ChatGPT中文版](https://chat.aibox365.cn/images/logo.png)
+![ChatGPT中文版](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AChatGPT-Logo.svg&psig=AOvVaw0O-P6AJkcEMiJFs5eNz6d8&ust=1744681921391000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNi1hOO01owDFQAAAAAdAAAAABAE)
 
 ## 📢 全面体验 ChatGPT 中文版，无需翻墙，支持 GPT-4o/o1/o3 和 DeepSeek R1
 
