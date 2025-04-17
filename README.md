@@ -27,8 +27,8 @@
 
 | 镜像站地址 | 支持版本 | 免费额度 | 注册方式 | 稳定性 | 功能亮点 |
 |------------|----------|----------|----------|--------|----------|
-| [chat.aibox365.cn](https://chat.aibox365.cn) | GPT-4o, GPT-o1, GPT-o3、Claude、Gemini、Grok、DeepSeek | ✅ | 手机/邮箱注册 | ⭐⭐⭐⭐⭐ | 支持 GPT-4o，内置 MJ 绘图，适合开发者与普通用户 |
-| [aibox365.com](https://aibox365.com) | GPT-4, GPT-4o, GPT-o1、AIPPT、Midjourney | ✅ | 手机/邮箱注册 | ⭐⭐⭐⭐⭐ | 支持 GPT-o1 模型，一比一还原官网，可以使用 AI助手、AI插件 |
+| [chat.aibox365.cn](https://chat.aibox365.cn) | GPT-4o, GPT-4.1, GPT-o1, GPT-o3、o4、Claude、Gemini、Grok、DeepSeek | ✅ | 手机/邮箱注册 | ⭐⭐⭐⭐⭐ | 支持 GPT-4o，内置 MJ 绘图，适合开发者与普通用户 |
+| [aibox365.com](https://aibox365.com) | GPT-4, GPT-4o,GPT-4.1, GPT-o1、o3、o4、AIPPT、Midjourney | ✅ | 手机/邮箱注册 | ⭐⭐⭐⭐⭐ | 支持 GPT-o1 模型，一比一还原官网，可以使用 AI助手、AI插件 |
 
 ## 🌟 为什么选择 ChatGPT 中文版？
 
